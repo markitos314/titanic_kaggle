@@ -66,3 +66,5 @@ From a typical Scikit-Learn workflow, we're going to follow these steps:
 4. Evaluate the model
 5. Improve through experimentation
 6. Submit predictions
+
+Check [the notebook](https://github.com/markitos314/titanic_kaggle/blob/main/titanic.ipynb) to see the code in details.
