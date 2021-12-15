@@ -2,8 +2,7 @@
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-## Overview
-
+## Overview
 *(from https://www.kaggle.com/c/titanic/data)*
 
 The data has been split into two groups:
